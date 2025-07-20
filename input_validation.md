@@ -1,4 +1,5 @@
 # CosmWasm Input Validation Security Audit Checklist
+(Created in Collaboration with AI, these tips are just best practices, always double check documentation to be sure concepts are correct)
 
 ## 1. Message Parameter Validation
 
@@ -348,7 +349,7 @@ pub fn execute_add_validator(
 ```
 
 ## 7. Overflow and Underflow Prevention
-
+### SHOLUD ALWAYS HAVE `overflow-checks = true` in Cargo.toml file
 ### ✅ Safe Mathematical Operations
 Use checked arithmetic operations.
 
