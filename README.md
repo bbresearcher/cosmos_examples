@@ -1,4 +1,4 @@
-# COSMOS AUDIT CHECKLISTS AND DOCUMENTATION FOR LEARNING I HAVE CREATED IN CONJUNCTION WITH AI
+# COSMOS AUDIT CHECKLISTS AND NOTES FOR LEARNING I HAVE CREATED IN CONJUNCTION WITH AI
 - [CosmWasm Input Validation Audit Checklist](./docs/input_validation.md)
 - [Cosmos Consesus Flow Diagram](./docs/cosmos_consensus_diagram.md)
 - [Cosmos Funds in Msg Clarification](./docs/cosmwasm_funds_value.md)
