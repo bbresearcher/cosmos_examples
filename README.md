@@ -6,3 +6,5 @@
 - [Cosmos SubMsg Failures](./cosmwasm_submsg_reply_failures.md)
 - [Cosmos Msg Replies](./cosmwasm_reply_audit_checklist.md)
 - [Cosmos Reply States ,Msg Funds and Contract Migrations](./cosmwasm_replystate_funds_migrations.md)
+
+  ![Cosmos Khight](./images/CosmosProtector.png)
