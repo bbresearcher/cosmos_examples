@@ -12,6 +12,7 @@
 - [Golang Explanation of Context](./docs/golang_context_guide.md)
 - [Cosmos Token Factory](./docs/cosmos_token_factory_guide.md)
 - [Cosmos Process to check Msg Signatures](./docs/cosmos_sdk_signer_validation.md)
+- [Cosmos Possible Permanent Chain Split Causes](./docs/permanent_chain_split_causes.md)
 
   # Website Links
   - [Links Page](./docs/Website_Links.md)
