@@ -7,3 +7,4 @@
 - [Oak Security : Audit Report Repo](https://github.com/oak-security/audit-reports)
 - [Zellic : Audit Report repo](https://github.com/Zellic/publications)
 - [JCSec : Roadmap to CosmWasm Security/Auditing](https://github.com/jcsec-security/CosmWasm-audit-roadmap?tab=readme-ov-file)
+- [The Cosmos Security Handbook](https://www.faulttolerant.xyz/2024-01-16-cosmos-security-1/)
