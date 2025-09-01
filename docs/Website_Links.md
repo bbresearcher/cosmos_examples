@@ -8,3 +8,4 @@
 - [Zellic : Audit Report repo](https://github.com/Zellic/publications)
 - [JCSec : Roadmap to CosmWasm Security/Auditing](https://github.com/jcsec-security/CosmWasm-audit-roadmap?tab=readme-ov-file)
 - [The Cosmos Security Handbook - Fault Tolerant](https://www.faulttolerant.xyz/2024-01-16-cosmos-security-1/)
+- [Cosmos Awesome Cosmos Github Repo](https://github.com/cosmos/awesome-cosmos)
