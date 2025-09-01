@@ -13,4 +13,6 @@
 
 ## Tools
 - [Trail of Bits CodeQL queries](https://github.com/trailofbits/codeql-queries)
+- [Trail of Bits CodeQL queries Tutorial](https://blog.trailofbits.com/2023/12/06/publishing-trail-of-bits-codeql-queries/)
 - [Crypto-com CodeQL queries](https://github.com/crypto-com/cosmos-sdk-codeql)
+- [Crytic Not so smart contracts](https://github.com/crytic/building-secure-contracts)
